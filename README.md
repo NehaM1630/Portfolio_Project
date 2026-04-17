@@ -69,33 +69,30 @@ I selected each expert based on three strict criteria:
 | 9 | **Lashay Lewis** | Founder, Authority Plug | Specialist in BOFU content that directly drives B2B SaaS revenue |
 | 10 | **Ann Handley** | CCO, MarketingProfs | Pioneer of content marketing; writing quality and voice expert |
 
+
 ---
-Key Observations
-1. Distribution > Creation
+## Key Observations
 
-Top operators spend more time on distribution loops than creating new content.
+### 1. Distribution > Creation
+Top operators spend more time on distribution than content creation.
 
-2. Specificity Wins
+### 2. Specificity Wins
+Posts with:
+- Numbers  
+- Mistakes  
+- Strong opinions  
+perform significantly better than generic advice.
 
-Generic advice underperforms. Posts that include:
+### 3. Content = Pipeline Asset
+Content is used for:
+- Lead generation  
+- Trust building  
+- Sales enablement  
 
-Numbers
-Mistakes
-Contrarian takes
-perform significantly better.
-3. Content = Pipeline Asset
+---
 
-The best creators treat content as:
-
-Lead generation
-Trust building
-Sales enablement
-
-—not just audience growth.
-
-4. Repetition is Intentional
-
-High performers repeat the same core ideas in different formats instead of chasing novelty.
+### 4. Repetition is Strategy
+High performers repeat core ideas in different formats instead of chasing new topics.
 
 ---
 ## What This Research Will Build Toward
