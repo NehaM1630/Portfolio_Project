@@ -106,5 +106,24 @@ This content base is designed to eventually produce a full **LinkedIn Organic Co
 - Algorithm notes for 2025/2026 so strategy stays current
 
 ---
+## Tools Used
+- Claude AI for content generation
+- AI-assisted transcript extraction
+- GitHub for structured documentation
 
+## Approach
+- Identified relevant experts in B2B SaaS/content space  
+- Collected LinkedIn posts and YouTube insights  
+- Organized learnings into structured research folders
+
+---
+## Conclusion
+
+This project demonstrates the ability to leverage AI tools, extract meaningful insights from expert content, and organize them into a structured, actionable format.
+
+## Note
+
+All content in this repository has been curated and structured for learning and research purposes.
+
+---
 *GitHub: [NehaM1630](https://github.com/NehaM1630) | Repository: Portfolio_Project | Last updated: April 2026*
