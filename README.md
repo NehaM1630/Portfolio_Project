@@ -1,5 +1,5 @@
 # LinkedIn Organic Content Strategy for B2B SaaS
-### Research Project by Neha | 100 Hires Program
+### Research Project
 
 ---
 
