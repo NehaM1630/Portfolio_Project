@@ -1,5 +1,4 @@
-# LinkedIn Organic Content Strategy for B2B SaaS
-### Research Project
+# B2B SaaS Content Research Project
 
 ---
 
@@ -71,7 +70,34 @@ I selected each expert based on three strict criteria:
 | 10 | **Ann Handley** | CCO, MarketingProfs | Pioneer of content marketing; writing quality and voice expert |
 
 ---
+Key Observations
+1. Distribution > Creation
 
+Top operators spend more time on distribution loops than creating new content.
+
+2. Specificity Wins
+
+Generic advice underperforms. Posts that include:
+
+Numbers
+Mistakes
+Contrarian takes
+perform significantly better.
+3. Content = Pipeline Asset
+
+The best creators treat content as:
+
+Lead generation
+Trust building
+Sales enablement
+
+—not just audience growth.
+
+4. Repetition is Intentional
+
+High performers repeat the same core ideas in different formats instead of chasing novelty.
+
+---
 ## What This Research Will Build Toward
 
 This content base is designed to eventually produce a full **LinkedIn Organic Content Playbook** for B2B SaaS including:
