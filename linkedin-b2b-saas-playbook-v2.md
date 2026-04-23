@@ -1,10 +1,7 @@
 # LinkedIn Organic Content Strategy Playbook for B2B SaaS
-### Version 2 — Execution-Grade Upgrade
 
 **Topic:** LinkedIn Organic Content Strategy for B2B SaaS  
 **Research Base:** 10 Expert Practitioners  
-**Author:** Neha M — Growth Strategist  
-**Last Updated:** April 2026
 
 ---
 
