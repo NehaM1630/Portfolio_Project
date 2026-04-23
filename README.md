@@ -1,6 +1,8 @@
-# LinkedIn Organic Content Strategy for B2B SaaS
-### Research Project
+## 🚀 Final Playbook
 
+**Topic:** LinkedIn Organic Content Strategy for B2B SaaS  
+
+[View Playbook](./playbook_linkedin_b2b_saas.md)
 ---
 
 ## What I Collected
