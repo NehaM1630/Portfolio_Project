@@ -2,7 +2,7 @@
 
 **Topic:** LinkedIn Organic Content Strategy for B2B SaaS  
 
- [View Playbook](./playbook_linkedin_b2b_saas.md)
+ [View Playbook](./linkedin-b2b-saas-playbook-v2.md)
 ---
 
 ## What I Collected
